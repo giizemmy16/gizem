@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Gül Yetiştiren Adam",
+        "price": 115,
+        "img": "https://www.bkmkitap.com/gul-yetistiren-adam?waw_keyword=g%C3%BCl%20yeti%C5%9Fti"
+    },
+    {
+        "id": 2,
+        "name": "Perde ve Mana ",
+        "price": 120,
+        "img": "https://www.bkmkitap.com/perde-ve-mn?waw_keyword=perde%20ve%20mana"
+    },
+    {
+        "id": 3,
+        "name": "Yağmur",
+        "price": 95,
+        "img": "https://www.bkmkitap.com/yagmur-57118?waw_keyword=ya%C4%9Fmur"
+    },
+    {
+        "id": 4,
+        "name": "Elveda Gülsarı",
+        "price": 110,
+        "img": "https://www.bkmkitap.com/elveda-gulsari?waw_keyword=elveda%20g%C3%BClsar%C4%B1"
+    },
+    {
+        "id": 5,
+        "name": "Harflerin Simyası",
+        "price": 120,
+        "img": "https://www.bkmkitap.com/harflerin-simyasi?waw_keyword=harflerin%20simyas%C4%B1"
+    },
+    {
+        "id": 6,
+        "name": "Araba Sevdası",
+        "price": 95,
+        "img": "https://www.bkmkitap.com/araba-sevdasi-701960?waw_keyword=araba%20sevdas"
+    }
+]
